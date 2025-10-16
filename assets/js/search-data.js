@@ -511,11 +511,18 @@ ninja.data = [{
           window.open("https://github.com/HaijunZou-sms", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0007-1927-0333", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=bdG-xWsAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
