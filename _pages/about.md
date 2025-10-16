@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>No.55, ZhongGuanCun East Road, Beijing 100190, China</p>
+    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-About Me
-=====
-I'm a second-year Ph.D. student at Academy of Mathematics and Systems Science, Chinese Academy of Sciences, supervised by [Prof. Ya-xiang Yuan](https://lsec.cc.ac.cn/~yyx/). Before that, I received my B.S. degree from Peking University in 2024, advised by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/). 
-
-Research Interests
-======
-My research interests focus on numerical optimization, with an emphasis on both theoretic foundations and algorithm development. Recently, I have been working on **Learn to Optimize (L2O)**, particularly on developing data-driven algorithms for solving combinatorial optimization algorithms.
+I'm a second-year Ph.D. student at Academy of Mathematics and Systems Science, Chinese Academy of Sciences, supervised by [Prof. Ya-xiang Yuan](https://lsec.cc.ac.cn/~yyx/). Before that, I received my B.S. degree from Peking University in 2024, advised by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/). My research interests focus on numerical optimization, with an emphasis on both theoretic foundations and algorithm development. Recently, I have been working on **Learn to Optimize (L2O)**, particularly on developing data-driven algorithms for solving combinatorial optimization algorithms.
