@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> Haijun Zou （邹海军）</p>
-    <p><a href='http://english.amss.cas.cn/'> Academy of Mathematics and Systems Science</p>
+    <p><a href='http://english.amss.cas.cn/'>Academy of Mathematics and Systems Science</a></p>
   social: true # includes social icons
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
