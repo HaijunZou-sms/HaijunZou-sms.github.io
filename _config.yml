@@ -259,8 +259,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Haijun]
-  first_name: [Zou]
+  last_name: [Zou]
+  first_name: [Haijun]
 
   style: apa
   locale: en
