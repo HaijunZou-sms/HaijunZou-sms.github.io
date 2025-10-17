@@ -194,12 +194,17 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
-
+  img {
+    width: 100%;
+    aspect-ratio: 1 / 1; /* 保持 1:1 宽高比 */
+    object-fit: cover; /* 确保图片填充且不变形 */
+  }
   .more-info {
+    text-align: center;
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-
+    
     p {
       display: inline-block;
       margin: 0;
@@ -779,6 +784,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bolder;
         }
 
         > span.more-authors {

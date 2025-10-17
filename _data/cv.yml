@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Haijun Zou
-    - name: Date of Birth
-      value: 2003-04-17
+    - name: Email
+      value: zouhaijun24@mails.ucas.ac.cn
+    - name: Homepage
+      value: https://haijunzou-sms.github.io
     - name: Languages
-      value: Chinese (native), English (fluent))
+      value: Chinese (native), English (fluent)
 
 - title: Education
   type: time_table
@@ -15,11 +17,11 @@
       institution: Academy of Mathematics and Systems Science, Chinese Academy of Sciences
       year: 2024 - Present
       description:
-        - Optimization Method and Theory
-        - Advisor: Prof. Ya-xiang Yuan
-     
+        - "Major: Optimization Method and Theory"
+        - "Advisor: Prof. <a href='http://lsec.cc.ac.cn/~yyx/' target='_blank'>Ya-xiang Yuan</a>"
     - title: BS
       institution: School of Mathematics and Sciences, Peking University
       year: 2020 - 2024
       description:
-        - Major: Computational Mathematics
+        -  "Major: Computational Mathematics"
+        -  "Advisor: Prof. <a href='http://faculty.bicmr.pku.edu.cn/~wenzw/' target='_blank'>Zaiwen Wen</a>"
