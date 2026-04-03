@@ -11,7 +11,7 @@ nav_order: 1
 <!-- Bibsearch Feature -->
 
 <div class="publications">
-* denotes equal contribution    
+* denotes equal contribution, † means corresponding author.
 {% bibliography %}        
 </div>
 
