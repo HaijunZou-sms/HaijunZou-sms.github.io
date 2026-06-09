@@ -3,6 +3,18 @@
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
 <!--ts-->
+
+- [Customize](#customize)
+  - [Project structure](#project-structure)
+  - [Configuration](#configuration)
+  - [Modifying the CV information](#modifying-the-cv-information)
+  - [Creating new pages](#creating-new-pages)
+  - [Creating new blog posts](#creating-new-blog-posts)
+  - [Adding some news](#adding-some-news)
+  - [Adding a new publication](#adding-a-new-publication)
+    - [Author annotation](#author-annotation)
+    - [Buttons (through custom bibtex keywords)](#buttons-through-custom-bibtex-keywords)
+
 <!--te-->
 
 ## Project structure
